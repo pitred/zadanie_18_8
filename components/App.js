@@ -1,4 +1,4 @@
-var GIPHY_API_URL = 'https://api.giphy.com';
+var GIPHY_API_URL = 'https://cors-anywhere.herokuapp.com/https://api.giphy.com';
 var GIPHY_PUB_KEY = 'gHCn0ghxMnPbwQcr2TLDfO202Rb361Sj';
 
 App = React.createClass({
